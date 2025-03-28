@@ -79,12 +79,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Interface intuitiva
 - [ ] Documentação final
 
-# Registro das Sprints
-
+# Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|Kick Off| 12/03/2025 | a fazer| [MVP](https://) | 
+|01|  04/04/2025| a fazer|[MVP](https://) | 
+|02| 25/04/2025 | a fazer|[MVP](https://) | 
+|03| 16/05/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
+|Finalização|27/06/2025 |a fazer |[MVP](https://) | 
