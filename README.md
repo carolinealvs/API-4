@@ -44,45 +44,39 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
-## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1 - Coleta e Planejamento
+- [ ] Baixar e integrar dados de atracação e carga
+- [ ] Filtrar registros relevantes para a análise
+- [ ] Limpar, normalizar e estruturar os dados
+- [ ] Documentar código python para uso futuro
+- [ ] Publicar avanços no Git Hub
+- [ ] Relatório
 
-## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2 - EficiÊncia e tempos de operação
+- [ ] Avaliar produtividade dos terminais
+- [ ] Calcular indicador de eficiência (infraestrutura x carga)
+- [ ] Criar ranking dos terminais
+- [ ] Identificar tempo médio de operação por terminal
+- [ ] Visualizar portos mais ágeis e os portos com maior espera
+- [ ] Relatório 
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Movimentação mensal por terminal
+- [ ] Criar gráficos mensais interativos
+- [ ] Filtrar por terminal e período
+- [ ] Volume de transporte por porto
+- [ ] Identificar os principais portos que movimentam soja
+- [ ] Visualizar evoluão mensal de movimentação de soja
+- [ ] Relatório
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Segmentação por terminal
+- [ ] Vizualizar ranking e evolução mensal
+- [ ] Implementar buscas e filtros personalizados
+- [ ] Filtrar por terminal, carga e tempo
+- [ ] Painel de estatísticas completo
+- [ ] Interface intuitiva
+- [ ] Documentação final
 
 # Registro das Sprints
 
