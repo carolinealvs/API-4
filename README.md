@@ -82,30 +82,25 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Sprint 2 - Eficiência e tempos de operação
 - [ ] Avaliar produtividade dos terminais
-- [ ] Calcular indicador de eficiência (infraestrutura x carga)
-- [ ] Criar ranking dos terminais
+- [ ] Criar ranking dos top 10 terminais
 - [ ] Identificar tempo médio de operação por terminal
 - [ ] Visualizar portos mais ágeis e os portos com maior espera
+- [ ] Movimentação mensal por terminal
+- [ ] Volume de transporte por porto
+- [ ] Identificar os principais portos que movimentam soja
 - [ ] Relatório 
       
 ## Sprint 3 - Movimentação e Análise de Carga
-- [ ] Movimentação mensal por terminal
+- [ ] Calcular indicador de eficiência (infraestrutura x carga)
 - [ ] Criar gráficos mensais interativos
 - [ ] Filtrar por terminal e período
-- [ ] Volume de transporte por porto
-- [ ] Identificar os principais portos que movimentam soja
-- [ ] Visualizar evoluão mensal de movimentação de soja
-- [ ] Relatório
-      
-## Sprint 4 - Funcionalidades Finais e Conclusão
-- [ ] Segmentação por terminal
-- [ ] Vizualizar ranking e evolução mensal
 - [ ] Implementar buscas e filtros personalizados
 - [ ] Filtrar por terminal, carga e tempo
-- [ ] Painel de estatísticas completo
+- [ ] Visualizar evolução mensal de movimentação de soja
+- [ ] Vizualizar ranking e evolução mensal
+- [ ] Desenvolver visualizações de eficiência Portuária e Operação
 - [ ] Interface intuitiva
-- [ ] Documentação final
-
+- [ ] Relatório
   
 # Competências desenvolvidas
 
