@@ -57,7 +57,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
       
 ## Python 
 
-
+https://fatecspgov-my.sharepoint.com/:v:/g/personal/caroline_silva132_fatec_sp_gov_br/EUAMbMrfzQ9Pk6tNyuCN6kwBFCwh-HdE-mGIpYeXKUVVRQ?e=LFlZAe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Power BI 
 
