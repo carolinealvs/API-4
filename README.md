@@ -38,9 +38,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off| 12/03/2025 | a fazer| [MVP](https://fatecspgov-my.sharepoint.com/:w:/r/personal/caroline_silva132_fatec_sp_gov_br/Documents/Microsoft%20Teams%20Chat%20Files/anexo_8_modelo_relatorio_projeto_integrador_log%20(1).docx?d=w47411cd7c0f54433b6c840e8728ef5df&csf=1&web=1&e=Mdvv7Z) | 
 |01| 07/05/2025| a fazer|[MVP](https://) | 
-|02| 14/05/2025 | a fazer|[MVP](https://) | 
-|03| 21/05/2025 |a fazer |[MVP](https://)  | 
-|Feira de Soluções|19/05/2025 |a fazer |[MVP](https://) | 
+|02| 21/05/2025 | a fazer|[MVP](https://) | 
+|03| 11/06/2025 |a fazer |[MVP](https://)  | 
+|Feira de Soluções| 19/05/2025 |a fazer |[MVP](https://) | 
 |Finalização|27/06/2025 |a fazer |[MVP](https://) | 
 
 
