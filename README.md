@@ -61,6 +61,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Power BI 
 
+![Power BI 1](https://github.com/user-attachments/assets/45fd8084-2944-4a25-b857-a28ac1559e47)
       
 ## Tecnologias Utilizadas
 
