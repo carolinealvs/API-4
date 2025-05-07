@@ -68,9 +68,6 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ![Tecnologias](https://github.com/user-attachments/assets/80060118-caac-4567-8266-2f3fb0aca6d1)
 
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
 
 # Backlog do produto
 
