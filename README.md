@@ -57,7 +57,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
       
 ## Python 
 
-API4S.ipynb
+### Tratamento de Paralização
+[API4S.ipynb](https://colab.research.google.com/drive/1pc13Z8DIX43rOlycMkJkcx0zUfhw1xHz?usp=sharing)
 
 ## Power BI 
 
