@@ -92,7 +92,7 @@ API4S.ipynb
 - [x] Relatório 
       
 ## Sprint 3 - Movimentação e Análise de Carga
-- [ ] Calcular indicador de eficiência (infraestrutura x carga)
+- [x] Calcular indicador de eficiência (infraestrutura x carga)
 - [x] Filtrar por terminal e período
 - [x] Implementar buscas e filtros personalizados
 - [x] Filtrar por terminal e tempo
