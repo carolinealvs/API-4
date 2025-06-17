@@ -79,29 +79,27 @@ API4S.ipynb
 - [x] Limpar, normalizar e estruturar os dados
 - [x] Documentar código python para uso futuro
 - [x] Publicar avanços no Git Hub
-- [ ] Relatório
+- [x] Relatório
 
 ## Sprint 2 - Eficiência e tempos de operação
-- [ ] Avaliar produtividade dos terminais
-- [ ] Criar ranking dos top 10 terminais
-- [ ] Identificar tempo médio de operação por terminal
-- [ ] Visualizar portos mais ágeis e os portos com maior espera
-- [ ] Movimentação mensal por terminal
-- [ ] Volume de transporte por porto
-- [ ] Identificar os principais portos que movimentam soja
-- [ ] Relatório 
+- [x] Avaliar produtividade dos terminais
+- [x] Criar ranking dos top 10 terminais
+- [x] Identificar tempo médio de operação por terminal
+- [x] Visualizar portos mais ágeis e os portos com maior espera
+- [x] Movimentação mensal por terminal
+- [x] Volume de transporte por porto
+- [x] Identificar os principais portos que movimentam soja
+- [x] Relatório 
       
 ## Sprint 3 - Movimentação e Análise de Carga
 - [ ] Calcular indicador de eficiência (infraestrutura x carga)
-- [ ] Criar gráficos mensais interativos
-- [ ] Filtrar por terminal e período
-- [ ] Implementar buscas e filtros personalizados
-- [ ] Filtrar por terminal, carga e tempo
-- [ ] Visualizar evolução mensal de movimentação de soja
-- [ ] Vizualizar ranking e evolução mensal
-- [ ] Desenvolver visualizações de eficiência Portuária e Operação
-- [ ] Interface intuitiva
-- [ ] Relatório
+- [x] Filtrar por terminal e período
+- [x] Implementar buscas e filtros personalizados
+- [x] Filtrar por terminal e tempo
+- [x] Vizualizar ranking 
+- [x] Desenvolver visualizações de eficiência Portuária e Operação
+- [x] Interface intuitiva
+- [x] Relatório
   
 # Competências desenvolvidas
 
@@ -132,7 +130,7 @@ API4S.ipynb
 | Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
