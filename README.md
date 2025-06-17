@@ -60,7 +60,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 API4S.ipynb
 
 ## Power BI 
-PBI 1.jpg
+
+![PBI 1](https://github.com/user-attachments/assets/a006c949-b09e-40b2-a286-ece677589651)
+![PBI 2](https://github.com/user-attachments/assets/358b950e-b1ac-4c23-b417-460e8c61e62e)
+![PBI 3](https://github.com/user-attachments/assets/e36158fb-299e-4f69-8ffe-5a57677d4286)
+![PBI 4](https://github.com/user-attachments/assets/9fff4d51-71d2-4593-9725-4eeee2393cd4)
+
 
       
 ## Tecnologias Utilizadas
